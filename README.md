@@ -8,9 +8,11 @@ Aplicación de escritorio en Java que permite convertir montos entre diferentes 
 - Consulta en tiempo real de tasas de cambio desde la API pública de [Frankfurter](https://www.frankfurter.app/).
 - Validación de entrada para evitar conversiones inválidas.
 - Prevención de selección de monedas repetidas (misma moneda origen y destino).
+- Se puede ver un historial de conversiones anteriores.
 
 ## 🖥️ Captura de pantalla
-![image](https://github.com/user-attachments/assets/a8b190a3-4b52-4b40-bd68-e9987ef0a64a)
+![image](https://github.com/user-attachments/assets/919b22d5-5def-4083-8e4a-a8d8f3247b9a)
+
 
 
 
