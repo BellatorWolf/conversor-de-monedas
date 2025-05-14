@@ -11,7 +11,7 @@ Aplicación de escritorio en Java que permite convertir montos entre diferentes 
 - Se puede ver un historial de conversiones anteriores.
 
 ## 🖥️ Captura de pantalla
-![image](https://github.com/user-attachments/assets/919b22d5-5def-4083-8e4a-a8d8f3247b9a)
+![image](https://github.com/user-attachments/assets/897797b6-5cd2-429f-9da1-8ae6e5844f20)
 
 
 
