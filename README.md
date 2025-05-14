@@ -16,24 +16,15 @@ Aplicación de escritorio en Java que permite convertir montos entre diferentes 
 
 ## 🚀 Requisitos
 
-- Java 17 o superior
+- Java 21 o superior
 - Maven 3.x
 - Conexión a Internet
-
-## 🔧 Instalación y ejecución
-
-1. **Clona este repositorio:**
-
-   ```bash
-   git clone https://github.com/tu-usuario/ConversorDeMonedas.git
-   cd ConversorDeMonedas
-   
 
 ## Créditos
 
 - API de tasas: [Frankfurter.app](https://www.frankfurter.app/)
 
-## Cómo ejecutar
+## 🔧 Cómo ejecutar
 ```bash
   mvn clean package
   java -jar target/ConversorDeMonedas-0.0.1-SNAPSHOT.jar
